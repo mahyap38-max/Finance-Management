@@ -5,6 +5,7 @@ This project allows users to manage their financial transactions and view useful
 
 
 ---FEATURES---
+
 ##Transaction Management
   - Add a new transaction
   - Update an existing transaction
@@ -47,12 +48,12 @@ This project allows users to manage their financial transactions and view useful
   - Menu-Driven Programs
 
     
-* How to Run *
+##How to Run 
 
-    1. Make sure Python 3 is installed.
-    2. Clone or download this repository.
-    3. Run the main Python file:   Finance-management.py
-    
+  1. Make sure Python 3 is installed.
+  2. Clone or download this repository.
+  3. Run the main Python file:   Finance-management.py
+  
 
 
 ## Author
