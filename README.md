@@ -4,15 +4,15 @@
 This project allows users to manage their financial transactions and view useful financial statistics using an SQLite database.
 
 
----FEATURES---
+##FEATURES
 
-##Transaction Management
+###Transaction Management
   - Add a new transaction
   - Update an existing transaction
   - Delete a transaction
   - Search transactions by title
   - Search transactions by date
-## Statistics
+### Statistics
   - View total income
   - View total expenses
   - View current balance
