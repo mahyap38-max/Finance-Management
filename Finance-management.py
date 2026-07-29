@@ -43,6 +43,9 @@ class database:
             if (len(title)==0):
                                     print("Please enter a title.")
                                     continue
+            elif (title.isdigit()):
+                print("Please enter a text.")
+                continue
             break
 
         while True:
