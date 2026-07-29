@@ -56,4 +56,4 @@ This project allows users to manage their financial transactions and view useful
 
 
 ## Author
-Developed by Mahya Parsa.
+Developed by Mahya Hosseini Parsa.
