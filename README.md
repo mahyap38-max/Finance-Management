@@ -62,7 +62,7 @@ Each transaction contains:
 3. Run the main Python file:
 
 ```bash
-python main.py
+Finance-management.py
 ```
 
 ## Future Improvements
@@ -75,4 +75,4 @@ python main.py
 
 ## Author
 
-Developed by Mahya Parsa.
+Developed by Mahya Hoesseini Parsa.
